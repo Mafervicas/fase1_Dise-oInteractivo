@@ -1,0 +1,13 @@
+Se puede notar como en carp 1 act2 todo era un sketch 
+y en carp2 act4 es un prototipo xd con navegación real
+
+carp 1 act 5 es una página web sencilla con algunos cálculos en PHP y 
+en carp2 act 12 es una página con log in, muestra imágenes en un carrusel
+Ya tiene más estilo y diferentes tags de html, inclusive hipervínculos
+
+Carp3 act10 es una página con un poco más de estilos de boostrap y CSS mientra
+que en carp4 Evidencia Final, podemos encontrar una página con navegación
+conexión a base de datos, log-in, diseños mucho más elaborados con CSS y
+todo lo aprendido ese semestre 
+Carp3 Ev1_Juegos podemos encontrar todo el diseño e idea de un supuesto
+videojuego
