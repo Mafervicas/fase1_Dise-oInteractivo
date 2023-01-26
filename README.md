@@ -18,10 +18,11 @@ Certificado: Desarrollo  de proyectos de Interactividad y diseño de multimedia
 - En Act12 podemos observar cómo de hacer sketches y prototipos, pasé a hacer una página con log-in y que muestra imágenes en un carrusel, así como un mini backend para lograr el log-in en PHP
 
 
-## Explicaciones Carpetas 3 & 4
+## Explicaciones Carpeta 3
+- Ev1_Juegos es la documentación de mi evidencia, sin duda alguna ahí se plasma lo mucho que aprendí, las habilidades que desarrollé para poder idear todo el videojuego ocn sus personajes, creo que se refleja mucho mi actitud y mi pensar
+- En la carpeta videojuego podemos encontrar el documento final y un video de cómo quedó mi juego, aunque me costó muchisimo trabajo y personalmente ha sido de las tareas que me han costado más, considero que aún tiene mucha area de oportunidad
+- EVIDENCIA 3 - DISEÑO fue una evidencia donde copiamos una página de Liverpool y agregamos una vista sin dejar a un lado su diseño y paleta de colores. Despues la modificamos 
 
-| Archivo Carpeta 3 |  Archivo Carpeta 4 | Diferencia |
-| ------------- | ------------- | ------------- |
-| act10 | Evidencia Final  | La act10 es una página con un poco más de estilos de boostrap y CSS. Mientras que en la Evidencia Final, podemos encontrar una página con navegación conexión a base de datos, log-in, diseños mucho más elaborados con CSS y todo lo aprendido ese semestre |
-| Ev1_Juegos  | carpeta Videojuego   | En Ev1_Juegos podemos encontrar todo el diseño e idea de un supuesto videojuego, mientras que en carp4 carpVideojuego está el documento final y un pequeño video de cómo quedó el videojuego |
-| EVIDENCIA 3 DISEÑO  | OvidDx   | EVIDENCIA 3 DISEÑO fue una evidencia donde copiamos una página de Liverpool y agregamos una vista sin dejar a un lado su diseño y paleta de colores. Por otro lado, OvidDx muestra un trabajo que hice solita en mi primer trabajo para un cliente en Estados Unidos, donde creé un prototipo de una app cubriendo sus requerimientos, creando cada una de las pantallas y dándole funcionalidad más real al prototipo |
+## Explicaciones Carpeta 4
+La act10 es una página con un poco más de estilos de boostrap y CSS. Mientras que en la Evidencia Final, podemos encontrar una página con navegación conexión a base de datos, log-in, diseños mucho más elaborados con CSS y todo lo aprendido ese semestre
+Y comparado con los otros prototipos previamente compartidos, lado, OvidDx muestra un trabajo que hice solita en mi primer trabajo para un cliente en Estados Unidos, donde creé un prototipo de una app cubriendo sus requerimientos, creando cada una de las pantallas y dándole funcionalidad más real al prototipo, considero que demuestra al 100% mis habilidades desarrolladas, valores de responsabilidad y una actitud ya más profesional
