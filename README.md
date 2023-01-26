@@ -4,13 +4,19 @@ Nombre: María Fernanda Villegas
 Certificado: Desarrollo  de proyectos de Interactividad y diseño de multimedia
 
 
-## Explicaciones Carpetas 1 & 2
+## Explicaciones Carpetas 1 
+- Act4 es un prototipoxd con navegación real
+- En Act5 podemos ver una página con muchísimas áreas de mejora
+- ACTIVIDAD 3 - DISEÑO, fue una actividad que en su momento fue la primera en desarrollar en xd, con el paso del tiempo amplié mis conocimientos y fue modificado
 
-| Archivo Carpeta 1 |  Archivo Carpeta 2 | Diferencia |
-| ------------- | ------------- | ------------- |
-| act2 | act4  | Se puede notar cómo en la act2 todo era un sketch y en la act4 es un prototipo xd con navegación real |
-| act 5 | act 12  | La primera actividad es una página web sencilla con algunos cálculos en PHP. Por el otro lado, act 12 es una página con log in, muestra imágenes en un carrusel. Ya tiene más estilo y diferentes tags de html, inclusive hipervínculos | 
-| actividad3-diseño | actividad5  | La actividad3-diseño es un prototipo en adobe xd medio feo, todo mal hecho, se ve que realmente eran imágenes sobrepuestas y todo estaba muy tozco, mientras que en la actividad5 podemos encontrar un prototipo muchísimo más bonito, mejor distribuido, más natural, con más ventanas, mejor mezcla de colores y con desplazamiento real |
+
+
+## Explicaciones Carpeta 2
+- Tenemos en Act2 cómo empecé prototipos desde sketch
+- En ACTIVIDAD 5 - DISEÑO encontramos un prototipo muchísimo más bonito, mejor distribuido, más natural, con más ventanas, mejor mezcla de colores y con desplazamiento real.
+
+- En Act12 podemos observar cómo de hacer sketches y prototipos, pasé a hacer una página con log-in y que muestra imágenes en un carrusel, así como un mini backend para lograr el log-in en PHP
+
 
 ## Explicaciones Carpetas 3 & 4
 
